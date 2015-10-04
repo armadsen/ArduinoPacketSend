@@ -6,6 +6,6 @@ The program simply polls the value of the Esplora's hardware slider, and any tim
 
 `$pos<x>;` (where `<x>` is the knob position, from 1 to 100.)
 
-For more information, please see the ORSSerialPort RequestResponseDemo project as well as the Request Response API Documentation (both are coming soon).
+For more information, please see the ORSSerialPort [PacketParsingDemo project](https://github.com/armadsen/ORSSerialPort/tree/master/Examples/PacketParsingDemo) as well as the [Packet Parsing API Documentation](https://github.com/armadsen/ORSSerialPort/wiki/Packet-Parsing-API).
 
 This project is licensed under the terms of the MIT [license](LICENSE.md).
